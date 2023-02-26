@@ -1,0 +1,6 @@
+ <li class="lista-itens" data-value="${index}">
+            <div class="bloco-tarefas">
+                <span>${elemento.tarefa}</span>
+                <button class="botao-excluir">apagar</button>  
+            </div>
+        </li>`
